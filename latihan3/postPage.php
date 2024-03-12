@@ -19,7 +19,7 @@ echo "<p>Program Studi: $program_studi</p>";
 echo "<p>Alamat: $alamat</p>";
 echo "<p>Handphone: $handphone</p>";
 echo "<p>Jenis Kelamin: $jenis_kelamin</p>";
-echo '<meta http-equiv="Refresh" content="4; URL=SignUp.php">';
+echo '<meta http-equiv="Refresh" content="4; URL=login.php">';
 ?>
 <script>
 alert("Sign Up Berhasil!");
